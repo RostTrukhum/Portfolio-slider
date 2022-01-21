@@ -95,3 +95,25 @@ button:focus {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
+
+.one {
+  background: url(./PortfolioImage/Food.png) center center / cover no-repeat;
+}
+
+.two {
+  background: url(./PortfolioImage/Source1.png) center center / cover no-repeat;
+}
+
+.three {
+  background: url(./PortfolioImage/Source2.png) center center / cover no-repeat;
+}
+
+.four {
+  background: url(./PortfolioImage/Source3.png) center center / cover no-repeat;
+}
+
+.link{
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
