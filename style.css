@@ -96,20 +96,27 @@ button:focus {
   border-bottom-right-radius: 5px;
 }
 
-.one {
+.first-slide {
   background: url(./PortfolioImage/Food.png) center center / cover no-repeat;
 }
 
-.two {
+.second-slide {
   background: url(./PortfolioImage/Source1.png) center center / cover no-repeat;
 }
 
-.three {
+.third-slide {
   background: url(./PortfolioImage/Source2.png) center center / cover no-repeat;
 }
 
-.four {
+.fourth-slide {
   background: url(./PortfolioImage/Source3.png) center center / cover no-repeat;
+}
+.fifth-slide {
+  background: url(./PortfolioImage/Pulse.png)
+}
+
+.sixth-slide {
+  background: url(./PortfolioImage/Uber.jpg)
 }
 
 .link{
