@@ -118,6 +118,9 @@ button:focus {
 .sixth-slide {
   background: url(./PortfolioImage/Uber.jpg)
 }
+.seventh-slide {
+  background: url(./PortfolioImage/Marvel.jpg)
+}
 
 .link{
   color: white;
