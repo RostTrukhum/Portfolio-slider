@@ -97,29 +97,37 @@ button:focus {
 }
 
 .first-slide {
-  background: url(./PortfolioImage/Food.png) center center / cover no-repeat;
+  background: url(./PortfolioImage/AdminPanel-Redux.jpg)
 }
 
 .second-slide {
-  background: url(./PortfolioImage/Source1.png) center center / cover no-repeat;
+  background: url(./PortfolioImage/AdminPanel.jpg) center center / cover no-repeat;
 }
 
 .third-slide {
-  background: url(./PortfolioImage/Source2.png) center center / cover no-repeat;
+  background: url(./PortfolioImage/Marvel.jpg) center center / cover no-repeat;  
 }
 
 .fourth-slide {
-  background: url(./PortfolioImage/Source3.png) center center / cover no-repeat;
+  background: url(./PortfolioImage/Source1.png) center center / cover no-repeat;
 }
 .fifth-slide {
-  background: url(./PortfolioImage/Pulse.png)
+  background: url(./PortfolioImage/Source2.png) center center / cover no-repeat;
 }
 
 .sixth-slide {
-  background: url(./PortfolioImage/Uber.jpg)
+  background: url(./PortfolioImage/Source3.png) center center / cover no-repeat;
 }
 .seventh-slide {
-  background: url(./PortfolioImage/Marvel.jpg)
+  background: url(./PortfolioImage/Pulse.png) center center / cover no-repeat;
+}
+
+.eighth-slide {
+  background: url(./PortfolioImage/Uber.jpg) center center / cover no-repeat;
+}
+
+.nineth-slide {
+  background: url(./PortfolioImage/Food.png) center center / cover no-repeat;
 }
 
 .link{
